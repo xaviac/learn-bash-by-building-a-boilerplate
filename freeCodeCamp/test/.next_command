@@ -147,3 +147,4 @@ ls --color=auto
 find client/
 find client/assets/
 find -name images
+mv header.png client/assets/images
