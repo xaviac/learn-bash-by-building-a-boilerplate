@@ -155,3 +155,4 @@ find client/assets/images/
 find client/assets/images
 find
 rmdir images
+rm images/background.jpg
